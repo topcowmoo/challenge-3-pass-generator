@@ -34,9 +34,11 @@ Image of page opening without issues in the console:
 
 ![image](https://github.com/topcowmoo/challenge-3-pass-generator/assets/149528212/0aa5adbe-2ec0-41f8-9988-f7463ad055aa)
 
+
 Invaild length alert:
 
 ![image](https://github.com/topcowmoo/challenge-3-pass-generator/assets/149528212/06860e5c-15a0-41b8-b4bd-81c3f4f312f8)
+
 
 Character type alert:
 
