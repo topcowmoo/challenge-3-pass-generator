@@ -1,8 +1,8 @@
 # Challenge 3 Password Generator App
 
-<!-- Welcome to my Portfolio project! I made this app from scratch so I could have my own portfolio. I was motivated to make this project so that I could have a place to showcase my work samples. It also serves as a place where potential employers can see what I can do for them. While making this app I learned how CSS flex box is used to further style my plain HTML code. I also had to troubleshoot the index code and style sheet to get the page to function how I wanted. I also made a wireframe for the first time to visualize and plan the structure of my portfolio. Thanks for visiting.
+Welcome to my password generator project! This app was made using starter code that included an index.html, script.js and style.css files. I improved upon the started code by adding all the guts of the JavaScript file and then amended the index and style sheet accordingly. I was very excited to make this project because it is the first app I've ever made with JavaScript in the code. Its a very useful app to have around as cyber security requires strong passwords. Watching the index and css come alive after adding JavaScript was a treat to see. I truely understand now why JavaScript is so important to having a dynamically functional website. I've attached a screenshot of a password that was successfully generated using the app:
 
-Here is a screenshot of the wireframe. -->
+![image](https://github.com/topcowmoo/challenge-3-pass-generator/assets/149528212/65877aa1-6452-4f83-a916-8880ee813b59)
 
 
 ## Installation
@@ -30,6 +30,18 @@ Now you have successfully cloned the project repository to your local machine.
 
 ## Screenshots
 
+Image of page opening without issues in the console:
+
+![image](https://github.com/topcowmoo/challenge-3-pass-generator/assets/149528212/0aa5adbe-2ec0-41f8-9988-f7463ad055aa)
+
+Invaild length alert:
+
+![image](https://github.com/topcowmoo/challenge-3-pass-generator/assets/149528212/06860e5c-15a0-41b8-b4bd-81c3f4f312f8)
+
+Character type alert:
+
+![image](https://github.com/topcowmoo/challenge-3-pass-generator/assets/149528212/74cd08e3-7ed0-4168-b6db-f482b01d09bc)
+
 
 ## Deployed Application
 
@@ -41,3 +53,5 @@ https://topcowmoo.github.io/challenge-3-pass-generator
 ## Credits
 
 https://www.youtube.com/watch?v=hdI2bqOjy3c
+
+-----------------------------------------------
