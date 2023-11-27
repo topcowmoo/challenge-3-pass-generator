@@ -1,9 +1,11 @@
+/* Universal selectors */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
+/* Base styles */
 html,
 body,
 .wrapper {
@@ -24,10 +26,11 @@ body {
   text-align: center;
 }
 
+/* Header style */
 header {
   text-align: center;
   padding: 20px;
-  padding-top: 0px;
+  /* padding-top: 0px; */
   color: hsl(206, 17%, 28%);
 }
 
@@ -55,6 +58,7 @@ header {
   min-height: 100px;
 }
 
+/* Footer styles */
 .card-footer {
   text-align: center;
 }
@@ -74,7 +78,7 @@ header {
 
 .btn {
   border: none;
-  background-color: hsl(360, 91%, 36%);
+  background-color: hsl(0, 84%, 36%);
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
@@ -82,7 +86,7 @@ header {
   display: inline-block;
   font-size: 22px;
   line-height: 22px;
-  margin: 16px 16px 16px 20px;
+  margin: 16px 20px;
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
@@ -93,9 +97,9 @@ button[disabled] {
   background: #c0c7cf;
 }
 
-/* .float-right {
+.float-right {
   float: right;
-} */
+}
 
 #password {
   -webkit-appearance: none;
@@ -118,6 +122,7 @@ button[disabled] {
   overflow: hidden;
 }
 
+/* Media queries */
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
