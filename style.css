@@ -21,6 +21,7 @@ body {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
+  text-align: center;
 }
 
 header {
@@ -58,7 +59,8 @@ header {
   text-align: center;
 }
 
-.card-footer::before {
+.card-footer::before,
+.card-footer::after {
   content: " ";
   display: block;
   width: 100%;
@@ -67,8 +69,6 @@ header {
 }
 
 .card-footer::after {
-  content: " ";
-  display: block;
   clear: both;
 }
 
@@ -93,9 +93,9 @@ button[disabled] {
   background: #c0c7cf;
 }
 
-.float-right {
+/* .float-right {
   float: right;
-}
+} */
 
 #password {
   -webkit-appearance: none;
